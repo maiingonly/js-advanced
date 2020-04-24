@@ -32,9 +32,6 @@ $('.searchBtn').on('click', function () {
 });
 
 
-
-
-
 function showCard(m){
     return `<div class="col-md-4 my-3">
              <div class="card">
